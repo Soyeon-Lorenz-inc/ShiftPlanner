@@ -1,0 +1,2 @@
+# ShiftPlanner
+plans shift schedules
