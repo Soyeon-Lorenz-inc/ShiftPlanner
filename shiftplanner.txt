@@ -4,4 +4,3 @@
 4. employees unavailable for specific time slots (holidays, personal schedule, …)
 5. alternatives
 6. different weekly hours for each staff member
- 
