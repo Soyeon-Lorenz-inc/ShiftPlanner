@@ -2,5 +2,7 @@
 2. time for 3 shifts (früh, mittel, spät) for each day
 3. delivery, technician visits - specific staff members must be present
 4. employees unavailable for specific time slots (holidays, personal schedule, …)
-5. alternatives
+5. show alternatives
 6. different weekly hours for each staff member
+
+
