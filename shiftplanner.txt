@@ -4,3 +4,13 @@
 4. employees unavailable for specific time slots (holidays, personal schedule, …)
 5. show alternatives
 6. different weekly hours for each staff member
+
+
+database
+
+1. An employee is identified with an employee number.
+2. An employee has available shifts.
+3. A shift is a combination of a day and a period.
+4. A day has 3 periods (früh, mittel, spät).
+5. An employee has the maximum number of work hours for each week.
+6. An employee has a status whether they are currently working or not.
